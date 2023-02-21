@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rud-rax
+- 👋 Hi, I’m Rudraksh Naik
 - 👀 I’m interested in AL , ML  and IOT
 - 🌱 I have worked on wide range of projects including Data Science Projects, Research Driven Projects and Computer Vision Applications.
 - 💞 I’m looking to collaborate on Problem Solving Exercises.
