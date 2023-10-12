@@ -2,7 +2,7 @@
 - 👀 I'm a Python Developer, and interested in the Data Science , Machine Learning and Artificial Intelligence.
 - 🌱 I have worked on wide range of projects including Data Science Projects, Research Driven Projects and Computer Vision Applications.
 - 💞 I also practise Competitve Programming.
-- 🎯 Used necessary programing tools such as Git, Bash, SQL, MongoDB, Postman, Docker.
+- 🎯 Experience with necessary programing tools such as Git, Bash, SQL, MongoDB, Postman, Docker.
 - 📫 How to reach me -> rudrakshnaik8990@gmail.com
 - 🪃 HackerRank profile : https://www.hackerrank.com/rud_rax
 
