@@ -6,6 +6,8 @@
 - 📫 How to reach me -> rudrakshnaik8990@gmail.com
 - 🪃 HackerRank profile : https://www.hackerrank.com/rud_rax
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=rud_rax)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!---
 rud-rax/rud-rax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
