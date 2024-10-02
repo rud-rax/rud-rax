@@ -3,7 +3,7 @@
 - 🌱 I have worked on wide range of projects including Data Science Projects, Research Driven Projects and Computer Vision Applications.
 - 📫 How to reach me -> rudrakshnaik@gmail.com
 
-## Education :
+## Education 
 
 **San Jose State University**, San Jose, CA \
 Masters in Computer Science (Aug 2024 - May 2026)
@@ -12,7 +12,7 @@ Masters in Computer Science (Aug 2024 - May 2026)
 Post Graduate Diploma in Artificial Intelligence and Data Science (Aug 2023 - June 2024) \
 Bachelor of Engineering in Computer Science (Aug 2019 - May 2023)
 
-## Technical Skills : 
+## Technical Skills 
   **Languages**: Python, R, C/C++, SQL (MySQL, MongoDB, CosmosDB), HTML/CSS \
   **Frameworks**: Django, FastAPI, Azure Functions \
   **Developer Tools**: Git, Azure DevOps, Postman, RabbitMQ, Docker, VirtualBox, Excel \
