@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Rudraksh Naik
 - 👀 I'm a Python Developer, and interested in the Data Science , Machine Learning and Artificial Intelligence.
 - 🌱 I have worked on wide range of projects including Data Science Projects, Research Driven Projects and Computer Vision Applications.
-- 📫 How to reach me -> rudrakshnaik@gmail.com
+- 📫 How to reach me : Email : rudrakshnaik@gmail.com / [LinkedIn](https://www.linkedin.com/in/rudrax)
+
 
 ## Education 
 
